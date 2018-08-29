@@ -22,6 +22,7 @@
 		3822DE5F213504A50071A768 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3822DE62213504A50071A768 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3822DE64213504A50071A768 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3822DE8A21368AA00071A768 /* 101_Date.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 101_Date.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 			children = (
 				3822DE58213504A40071A768 /* AppDelegate.swift */,
 				3822DE5A213504A40071A768 /* ViewController.swift */,
+				3822DE8A21368AA00071A768 /* 101_Date.playground */,
 				3822DE5C213504A40071A768 /* Main.storyboard */,
 				3822DE5F213504A50071A768 /* Assets.xcassets */,
 				3822DE61213504A50071A768 /* LaunchScreen.storyboard */,
